@@ -9,7 +9,9 @@ $( "a[href='#']" ).click (function(event){
       event.preventDefault();
     });
     
-$(".header__main > h2").css("font-size", "2em");
+$(".header__main").find(h2).css("font-size", "3em");
+
+$
 
 });
 
