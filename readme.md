@@ -129,3 +129,4 @@ El botón con clase `social__link` debe mostrar un `alert` con el `alt` de la im
 *Tip: recuerda que son dos botones, uno dentro de otro. Por ende es posible gatillar las acciones de ambos botones en vez de solo una.*
 
 *Es importante recalcar que deberemos detener la propagación del evento para que no se siga gatillando la misma acción en elementos interiores.*
+# desafio13
